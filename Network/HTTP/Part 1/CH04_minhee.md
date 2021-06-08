@@ -48,7 +48,7 @@ TCP 커넥션 식별은 네가지 값으로 한다.
 
 (소켓이란? 참조): [https://medium.com/@yeon22/term-socket이란-7ca7963617ff](https://medium.com/@yeon22/term-socket%EC%9D%B4%EB%9E%80-7ca7963617ff)
 
-![2](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1ffab399-5add-4988-8644-df7957beb51c/xtrsq007.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210608%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210608T042256Z&X-Amz-Expires=86400&X-Amz-Signature=b938cb94be04c0b41a2a98523e72d1f761ed16a99f0daf34c50599ccf6d077d0&X-Amz-SignedHeaders=host
+![2](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1ffab399-5add-4988-8644-df7957beb51c/xtrsq007.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210608%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210608T042256Z&X-Amz-Expires=86400&X-Amz-Signature=b938cb94be04c0b41a2a98523e72d1f761ed16a99f0daf34c50599ccf6d077d0&X-Amz-SignedHeaders=host)
 
 클라이언트-서버 TCP 소켓 프로그래밍 상호작용 프로세스
 
